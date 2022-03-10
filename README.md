@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning gRPC, Golang Sync, WOrkers, Channels.
 - 💬 Ask me about Golang, Java, AWS.
 - 📫 How to reach me: Writeme at ing.brayanarias@gmail.com
-- 😄 Pronouns: braejan
+- 😄 Pronouns: he/him/his
 - ⚡ Fun fact: My name is pronounce like Brian
 
