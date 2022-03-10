@@ -11,9 +11,9 @@ repositories.
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on Golang with concurrency process.
-- 🌱 I’m currently learning gRPC, Golang Sync, WOrkers, Channels.
-- 💬 Ask me about Golang, Java, AWS.
+- 🔭 I’m currently working on Java projects.
+- 🌱 I’m currently learning Crypto/Blockchain, Ethereum, Solana.
+- 💬 Ask me about Golang, Java, Solana.
 - 📫 How to reach me: Writeme at ing.brayanarias@gmail.com
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: My name is pronounce like Brian
