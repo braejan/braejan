@@ -1,6 +1,7 @@
 ### Braejan Arias - Software Engineer
 
-### Golang, Java, NodeJs, REST, gRPC, Goroutines, AWS Cloud: S3, DynamoDB, Lamdba functions, Apigateway, EC2 among others.
+### Golang, REST, gRPC, Goroutines, AWS Cloud: S3, DynamoDB, Lamdba functions, Apigateway, EC2 among others.
+### Solidity beginner developer, Blockchains and Cryto. 
 
 I had worked with agiles methodologies like SCRUM and the implementations
 of different architectures like TDD, DDD, MVC among others. Git for managing
@@ -11,10 +12,9 @@ repositories.
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on Java projects.
-- 🌱 I’m currently learning Crypto/Blockchain, Ethereum, Solana.
-- 💬 Ask me about Golang, Java, Solana.
-- 📫 How to reach me: Writeme at ing.brayanarias@gmail.com
+- 🌱 I’m currently learning Smart Contracts for Ethereum Virtual Machine
+- 💬 Ask me for Golang, Solidity, Crypto and more.
+- 📫 How to reach me: Write to me at ing.brayanarias@gmail.com
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: My name is pronounce like Brian
 
