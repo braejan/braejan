@@ -1,7 +1,7 @@
 ### Braejan Arias - Software Engineer
 
 ### Golang, REST, gRPC, Goroutines, AWS Cloud: S3, DynamoDB, Lamdba functions, Apigateway, EC2 among others.
-### Solidity beginner developer, Blockchains and Cryto. 
+### Solidity beginner developer, Blockchains and Crypto. 
 
 I had worked with agiles methodologies like SCRUM and the implementations
 of different architectures like TDD, DDD, MVC among others. Git for managing
