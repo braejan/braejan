@@ -8,7 +8,7 @@ I had worked with agiles methodologies like SCRUM and the implementations
 of different architectures like TDD, DDD, MVC among others. Git for managing
 repositories.
 
-I enjoy to learn new things every moment. This is my (Platzi profile)[https://platzi.com/p/BrayanAriasH/] with a resume of several intersting courses.
+I enjoy to learn new things every moment. This is my [Platzi profile](https://platzi.com/p/BrayanAriasH/) with a resume of several intersting courses.
 
 <!--
 **braejan/braejan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
