@@ -1,23 +1,20 @@
-### Braejan Arias - Software Engineer
+# Braejan Arias - Software Enginner/Backend Developer/Golang/Solidity/Haskell/Java
 
-### Golang/Kotlin/Haskell developer.
-### Learning Haskell everyday! Learner of Plutus/Marlowe for Cardano Smart Contracts. 
+Hey there! Welcome to my GitHub profile. I'm a software engineer with a passion for backend development and creating innovative software solutions.
 
+## Skills
 
-I had worked with agiles methodologies like SCRUM and the implementations
-of different architectures like TDD, DDD, MVC among others. Git for managing
-repositories.
+- Programming Languages: Golang, Java, Solidity, Haskell, Kotlin
+- Backend Development
+- Software Design and Implementation
+- AWS Cloud: S3, DynamoDB, Lambda functions, API Gateway, EC2
+- Agile Methodologies: SCRUM
+- Software Architectures: TDD, DDD, MVC
+- Version Control: Git, Github
+- OS: Unix, Linux, Windows
 
-I enjoy to learn new things every moment. This is my [Platzi profile](https://platzi.com/p/BrayanAriasH/) with a resume of several intersting courses.
+## About Me
 
-<!--
-**braejan/braejan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I believe in continuous learning and personal growth, especially in the field of technology. Every day is an opportunity for me to expand my knowledge and explore new technologies. Currently, I'm focused on diving deeper into the world of Blockchains, Cryptocurrencies, Haskell, Solidity, and EVM. You can find more about my learning [here](https://platzi.com/p/BrayanAriasH/)
 
-Here are some ideas to get you started:
--->
-- 🌱 I’m currently learning Smart Contracts for Ethereum Virtual Machine
-- 💬 Ask me for Golang, Solidity, Crypto and more.
-- 📫 How to reach me: Write to me at ing.brayanarias@gmail.com
-- 😄 Pronouns: he/him/his
-- ⚡ Fun fact: My name is pronounce like Brian
-
+## Contact: [braejan.eth](https://braejan.eth.limo)
