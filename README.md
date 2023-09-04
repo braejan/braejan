@@ -4,8 +4,8 @@ Hey there! Welcome to my GitHub profile. I'm a software engineer with a passion 
 
 ## Skills
 
-- Programming Languages: Golang, Java, Solidity, Haskell, Kotlin
-- Backend Development
+- Programming Languages: Golang, Solidity, Haskell, Kotlin
+- Software Developer/Software Engineer/Backend Development
 - Software Design and Implementation
 - AWS Cloud: S3, DynamoDB, Lambda functions, API Gateway, EC2
 - Agile Methodologies: SCRUM
