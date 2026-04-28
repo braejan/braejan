@@ -2,7 +2,7 @@
 
 > _**witsaba**_ — Sikuani (Jiwi) for **to grow**.
 
-I'm a software engineer in Maní, Casanare 🇨🇴, founder of **[witsaba](https://github.com/liwaisi-tech)** — a B2B Coloured Petri Net engine for agentic AI, written in Go.
+I'm a software engineer in Maní, Casanare 🇨🇴, founder of **[@witsaba](https://github.com/witsaba)** — a B2B Coloured Petri Net engine for agentic AI, written in Go.
 
 I have aphantasia: I can't picture systems in my head. So I'm building an engine that lets me **see** agent topologies grow on screen — places, transitions, tokens flowing as living mycelium — instead of holding them as prose.
 
@@ -29,7 +29,8 @@ The metaphor is fungal. The Blueprint library _grows_ with use. The Architect _g
 
 ## Selected work
 
-- **[liwaisi-tech](https://github.com/liwaisi-tech)** — the org where witsaba ships
+- **[@witsaba](https://github.com/witsaba)** — the org where the engine ships (in active development)
+- **[@liwaisi-tech](https://github.com/liwaisi-tech)** — digital initiative for online education access in rural Colombia
 - **[haskell-openai](https://github.com/braejan/haskell-openai)** — Haskell wrapper for the OpenAI API (⭐ 11)
 - **[evm-open-tickets](https://github.com/braejan/evm-open-tickets)** / **[open-tickets-celo](https://github.com/braejan/open-tickets-celo)** — ticketing on Ethereum and Celo
 - **[go-transactions-summary](https://github.com/braejan/go-transactions-summary)** — DDD in Go, transaction summary loader
@@ -38,9 +39,9 @@ The metaphor is fungal. The Blueprint library _grows_ with use. The Architect _g
 
 ## Reach me
 
-- 🌱 **Engine:** [witsaba](https://github.com/liwaisi-tech) (in active development)
+- 🌱 **Engine:** [@witsaba](https://github.com/witsaba) (in active development)
 - 🪪 **ENS:** [braejan.eth](https://braejan.eth.limo)
 - ✉️ **Email:** braejan@proton.me
-- 🏢 **Org:** [@liwaisi-tech](https://github.com/liwaisi-tech)
+- 🏢 **Also:** [@liwaisi-tech](https://github.com/liwaisi-tech) (rural Colombia / education)
 
 > Hireable for: Go backend systems, agentic AI infrastructure, CPN / formal-methods-flavoured engineering, hexagonal/DDD architectures.
